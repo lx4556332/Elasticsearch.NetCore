@@ -1,0 +1,2 @@
+# Elasticsearch.NetCore
+Elasticsearch.NetCore
